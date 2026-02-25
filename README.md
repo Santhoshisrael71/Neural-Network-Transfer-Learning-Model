@@ -20,6 +20,7 @@ The model is trained on a custom dataset and evaluated using accuracy, confusion
 
 ##  Dataset Structure
 
+```
 dataset/
 │── train/
 │   ├── class1/
@@ -30,7 +31,7 @@ dataset/
 │   ├── class2/
 
 ---
-
+```
 ##  Model Architecture
 
 * Pretrained VGG19 (ImageNet weights)
